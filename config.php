@@ -1,0 +1,20 @@
+<?php
+
+
+// ISI DENGAN PHPSESSID
+$data1 = "ecf3a3b0368063172169eb7c7a29a71d";
+"dd429c5e435635c36362f68ea1d3505a";
+"474307e0b0d538b5531aa8148c8e1346";
+
+// ISI DENGAN DOGE TOKEN, TRX TOKEN, DAN XRP TOKEN
+$doge = "MA5Ikga8Ndt4b5SbH12D5vCeMvSGmJTh";
+$trx = "dVqlqaB92UBPv3uBTXypDh5M0zQVEuON";
+$xrp = "vu7TSj0gxFAUSxBaPcQhgxkgN1qUqdRE";
+
+
+
+
+
+
+
+?>
